@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Working with Props in class-based components and functional components
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
